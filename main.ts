@@ -1,3 +1,8 @@
+/**
+ * Arturo Villanueva Escaño
+ * 
+ * S2A
+ */
 input.onButtonPressed(Button.A, function () {
     numero_introducido += 10
 })
